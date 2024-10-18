@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Yan Gomides
-- 👀 I’m interested in AI, Python, Linux Mint and NASCAR. 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Cybersecurity
-- 📫 How to reach me in/yangomides/
-- ⚡ Fun fact: There are no fun facts in my life.
-
-<!---
-iGomides/iGomides is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Olá, eu sou Yan Gomides
+- 🔒 **Sobre mim:** Eu sou interessado por Cibersegurança, IA, programação e Linux. 
+- 🤝🏼 **Trabalho:** Estou buscando uma nova oportunidade em Cibersegurança.
+- 🐍 **Estudos:** Atualmente estou estudando a linguagem Python.
+- 🌿 **Curiosidades:** Uso o Linux Mint,e gosto de acompanhar a NASCAR!
+  
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/64b9f33a-19d3-4bc5-837a-980652b53391" alt="fim" width="20%" />
+</div>

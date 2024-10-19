@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Yan Gomides 
-- 🔒 **Sobre mim:** Eu sou interessado por Cibersegurança, IA, programação e Linux. 
+- 🔒 **Sobre mim:** Sou interessado por Cibersegurança, IA, programação e OpenSource. 
 - 🤝🏼 **Trabalho:** Estou buscando uma nova oportunidade em Cibersegurança.
 - 🐍 **Estudos:** Atualmente estou estudando a linguagem Python.
 - 🌿 **Curiosidades:** Uso o Linux Mint, e gosto de acompanhar a NASCAR!

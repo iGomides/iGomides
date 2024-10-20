@@ -1,4 +1,4 @@
-## Hello, I'm Yan Gomides
+## Hi, I'm Yan Gomides
 
 - 🌟 **About me:** I'm interested in Cybersecurity, AI, programming, and OpenSource codes.
 - 💼 **Work:** I'm "open to work" and looking for a new opportunity in Cybersecurity.

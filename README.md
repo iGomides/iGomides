@@ -1,6 +1,6 @@
 ## Hello, I'm Yan Gomides
 
-- 🌟 **About me:** I am interested in Cybersecurity, AI, programming, and OpenSource.
+- 🌟 **About me:** I'm interested in Cybersecurity, AI, programming, and OpenSource.
 - 💼 **Work:** I am looking for a new opportunity in Cybersecurity.
 - 📚 **Studies:** I am currently studying the Python language.
 - 🌍 **Natural Language:** My native language is PT-BR. Sorry for any English mistakes.

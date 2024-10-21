@@ -2,7 +2,7 @@
 
 - 🌟 **About me:** I'm interested in Cybersecurity, AI, programming, and OpenSource codes.
 - 💼 **Work:** I'm "open to work" and looking for a new opportunity in Cybersecurity.
-- 📚 **Studies:** Currently studying the Python and Offensive Security.
+- 📚 **Studies:** Currently studying Python and Offensive Security.
 - 🌍 **Natural Language:** My native language is Portuguese. Sorry for any English mistakes.
 - 🏎️ **Fun facts:** I use Linux Mint and enjoy following NASCAR Cup Series!
 
